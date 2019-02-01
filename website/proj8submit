@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC389E
+#  Project 8: RAM
+
+courseName=CMSC389E
+semester=201808
+projectNumber=8
+courseKey=c0b5aa47e8bcb261
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2018
+submitURL=https://submit.cs.umd.edu:443/fall2018/eclipse/SubmitProjectViaEclipse
